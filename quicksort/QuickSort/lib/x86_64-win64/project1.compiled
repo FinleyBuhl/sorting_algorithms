@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1411539275"/>
+  <Params Value=" -Twin64 -Px86_64 -MObjFPC -Scghi -CX -O4 -XX -k-CfSSE2 -WG -l -vewnhibq -FiE:\pascal\QuickSort\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuE:\pascal\QuickSort\ -FUE:\pascal\QuickSort\lib\x86_64-win64\ -FEE:\pascal\QuickSort\ -oE:\pascal\QuickSort\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
